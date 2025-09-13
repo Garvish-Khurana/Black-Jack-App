@@ -18,14 +18,5 @@ This project is part of my learning journey in programming, focusing on:
 - Understanding probability and randomness in games
 
 ## 📂 Tech Stack
-- Language: C++ / Python / JavaScript (choose based on what you built)
+- Language: Html / Css / JavaScript (choose based on what you built)
 - No external libraries (or mention if any were used)
-
-## 📸 Screenshots
-_(Add screenshots or gifs of the app running here)_
-
-## 📦 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/blackjack-app.git
-   cd blackjack-app
